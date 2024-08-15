@@ -1,15 +1,15 @@
 <table align="right">
- <tr><td><a href="README.md"><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_lt.md"><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1f9.png" height="13"> Lietuvių</a></td></tr>
+ <tr><td><a href="README.md"> English</a></td></tr>
+ <tr><td><a href="README_lt.md"> Lietuvių</a></td></tr>
 </table>
 
-### <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f47e.png" height="20"> &nbsp;About Me
+### About Me
 
-&nbsp;&nbsp;&nbsp;<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4c8.png" height="20"> &nbsp;Currently working as a Purchasing Analyst at SBA Home.  
-&nbsp;&nbsp;&nbsp;<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f331.png" height="20"> &nbsp;Passionate about data-driven decision-making and optimizing procurement processes.  
-&nbsp;&nbsp;&nbsp;<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4ca.png" height="20"> &nbsp;Over 9 years of experience in marketing, sales, and data analytics.  
-&nbsp;&nbsp;&nbsp;<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4bb.png" height="20"> &nbsp;Proficient in SAP Cloud Analytics, strategic marketing, and procurement.  
-&nbsp;&nbsp;&nbsp;<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f3e0.png" height="20"> &nbsp;Living in Klaipėda, Lithuania, and always seeking new challenges.
+Currently working as a Purchasing Analyst at SBA Home.  
+Passionate about data-driven decision-making and optimizing procurement processes.  
+Over 9 years of experience in marketing, sales, and data analytics.  
+Proficient in SAP Cloud Analytics, strategic marketing, and procurement.  
+Living in Klaipėda, Lithuania, and always seeking new challenges.
 
 <p align="center">
   <a href="mailto:simonamichalenko@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,7 +19,7 @@
 <hr/>
 
 <details>
-  <summary><b><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f5a5.png" height="20"> &nbsp;Main Areas of Expertise</b></summary>
+  <summary><b>Main Areas of Expertise</b></summary>
   <br/>
 
 ![Data Analysis](https://img.shields.io/badge/DATA%20ANALYSIS-02569B.svg?&style=flat&logo=data&logoColor=white)&nbsp;
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f9e0.png" height="20"> &nbsp;Always Learning</b></summary>
+  <summary><b>Always Learning</b></summary>
   <br/>
 
 ![Digital Transformation](https://img.shields.io/badge/DIGITAL%20TRANSFORMATION-FCC624.svg?&style=flat&logo=digital&logoColor=black)&nbsp;
